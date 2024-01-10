@@ -1,9 +1,9 @@
 # SITE CONFIGURATION
-title: labexam # your site title
+title: Lab Exam Website # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
-  this is labexam
-baseurl: "/fatemehr" # the subpath of your site, e.g. /blog
+  Lab Exam - Your Description Here
+baseurl: "/labexam" # the subpath of your site, e.g. /blog
 url: "https://FatemehRazzaghy.github.io/labexam" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
